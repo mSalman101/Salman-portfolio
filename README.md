@@ -38,5 +38,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-This project is based on [sagarshah.dev](https://github.com/shahsagarm/sagarshah.dev), created by Sagar Shah, and modified by Salman.
+This project is based on sagarshah's project, created by Sagar Shah, and modified by Salman.
 
